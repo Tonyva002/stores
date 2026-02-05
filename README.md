@@ -6,7 +6,7 @@
 Store management: list, create, update, and delete operations.
 
 ### Links
-📌 Live site URL: [here](https://github.com/Tonyva002/Users)
+📌 Live site URL: [here](https://github.com/Tonyva002/stores)
 
 ### Built with
 
