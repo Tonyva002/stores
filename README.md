@@ -22,6 +22,7 @@ Store management: list, create, update, and delete operations.
 - Dialog
 - MVVM
 - Clean Architecture
+- Multi-languages
 
 ### Necessary tool:
 
