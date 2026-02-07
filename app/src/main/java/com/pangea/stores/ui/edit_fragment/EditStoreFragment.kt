@@ -47,7 +47,7 @@ class EditStoreFragment : Fragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         binding = FragmentEditStoreBinding.inflate(inflater, container, false)
         return binding.root
     }
